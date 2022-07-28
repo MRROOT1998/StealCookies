@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title><img src=x onerror=alert(1)> </title>
+<link>https://www.euronews.com</link>
+<language>en</language>
+<description>Latest news from Euronews</description>
+<copyright>Euronews 2022</copyright>
+<lastBuildDate>Thu, 28 Jul 2022 08:43:00 +0200</lastBuildDate>
+<pubDate>Thu, 28 Jul 2022 08:43:00 +0200</pubDate>
+<ttl>30</ttl>
+<atom:link href="https://www.euronews.com/rss?level=theme&name=news" rel="self" type="application/rss+xml"/>
+<image>
+<url>https://static.euronews.com/website/images/euronews_flatblue.png</url>
+<title>News<img src=x onerror=alert(1)> | Euronews RSS </title>
+<link>https://www.euronews.com</link>
+</image>
+<item>
+<title>Kim Jong Un threatens<img src=x onerror=alert(1)> with nuclear forces to 'overwhelm any hostile forces'</title>
+<link>javascript:alert(111)</link>
+<guid>https://www.euronews.com/2022/07/28/kim-jong-un-threatens-with-nuclear-forces-to-overwhelm-any-hostile-forces</guid>
+<pubDate>Thu, 28 Jul 2022 08:42:55 +0200</pubDate>
+<description>North Korean leader's fiery speech on the anniversary of the end of the Korean War armistice was meant to<img src=x onerror=alert(1)> boost domestic unity after the Asian hermit state was hit particularly hard by sanctions and COVID-19.</description>
+</item>
+</channel>
+</rss>

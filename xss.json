@@ -1,1 +1,1 @@
-{"xss":"javascript:alert`1111`"}
+{"xss":"javascript:alert`1111`" , "xss1":"<img src=x onerror=alert(1)>"}
